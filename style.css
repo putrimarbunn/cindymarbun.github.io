@@ -1,0 +1,11 @@
+.banner {
+  background: url("https://i.pinimg.com/564x/9d/9b/3d/9d9b3d4a2921156ea7c591c3e50ae83b.jpg")
+    no-repeat center center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 25%;
+}
+
+.crop-img {
+  object-fit: cover;
+}
